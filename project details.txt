@@ -1,0 +1,20 @@
+1 Build the project
+	-creating th folder
+	-adding files
+	-connnecting files
+
+2 Navbar
+	-2links and a name
+
+3 Protfolio item grid
+	-imges
+	-titles
+	-descriptions
+	-animations
+	-javascirpt
+
+4 About page
+	-image 
+	-split column layout
+	-content
+ 
